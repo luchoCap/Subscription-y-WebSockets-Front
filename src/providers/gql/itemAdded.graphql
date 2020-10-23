@@ -1,0 +1,6 @@
+subscription itemAdded {
+    itemAdded {
+        title
+        author
+     }
+}
